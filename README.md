@@ -1,4 +1,5 @@
-![Aditya Shenoy Banner](https://user-images.githubusercontent.com/49498445/126185775-a9c22e00-ee0f-470e-a912-5dbafbeda8bb.gif)
+![Aditya Shenoy Banner gif](https://user-images.githubusercontent.com/49498445/126192016-61efad46-a1ad-4a3a-8459-df21070a0e96.gif)
+
 <!--<h1 align="center">Hey there, fellow CODERS</h1>-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adishenz98&label=Profile%20views&color=0e75b6&style=flat" alt="adishenz98" /> </p>
 
