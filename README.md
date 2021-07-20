@@ -21,7 +21,7 @@
 <a href="mailto: adishenz98@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="adishenz98"  /></a>
 <a href="https://linkedin.com/in/adityashenoy-98" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adityashenoy-98"/></a>
 <a href="https://instagram.com/adishenz" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="adishenz" /></a>
-<a href="https://www.hackerrank.com/adishenz98" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="adishenz98"  /></a>
+<!--<a href="https://www.hackerrank.com/adishenz98" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="adishenz98"  /></a>-->
 </p>
 
 
