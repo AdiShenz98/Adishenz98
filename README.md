@@ -19,6 +19,8 @@
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
+Week: 13 July, 2021 - 19 July, 2021
+
 Python   20 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
