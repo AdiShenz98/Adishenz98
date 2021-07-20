@@ -5,7 +5,7 @@
 
 <p> <br> </p>
 
-### Hi!, I'm Aditya Shenoy, a passionate and self-taught data analyst.
+### Hi! I'm Aditya Shenoy, a passionate and self-taught data analyst.
 * :high_brightness: From the earliest years of my childhood, I have held a penchant for solving problems, which is why the area of analytics has always piqued my interest and connected with my enthusiasm.
 * 🎓 Currently I am pursuing my **Integrated M.Sc** degree in **Mathematics and Computing** from **Birla Institute of Technology**. Having been a student of this particular discipline for almost four years now have significantly helped me hone my technical and quantitative skills which have aided in having a better understanding of the data I'm working with.
 * 💻 I spent most of my time in `Python`, `SQL` and `Tableau`
