@@ -13,6 +13,7 @@
 
 <p> <br> </p>
 
+### Coding Stats
 <!--START_SECTION:waka-->
 ```text
 Python   20 mins         █████████████████████████   100.00 % 
