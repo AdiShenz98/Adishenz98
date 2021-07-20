@@ -13,6 +13,8 @@
 <p> <br> </p>
 
 
+
+
 ![Aditya Shenoy Tech Stack](https://user-images.githubusercontent.com/49498445/126198305-45276b83-4455-4355-9bca-61ee0c83a0b1.gif)
 
 
@@ -43,4 +45,8 @@ Python   20 mins         ██████████████████�
 <img  src="https://github-readme-stats.vercel.app/api?username=adishenz98&theme=vue-dark&line_height=20" alt="adishenz98"/> 
 </p>
 
-
+<!--<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Adishenz98" />
+</a>
+</p>-->
