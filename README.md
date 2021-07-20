@@ -1,7 +1,6 @@
 
 ![Aditya Shenoy Banner gif](https://user-images.githubusercontent.com/49498445/126192016-61efad46-a1ad-4a3a-8459-df21070a0e96.gif)
 
-<!--<h1 font-family="monospace" align="center" height="1500" color="blue"> Heyy there fellow &lt ANALYST / &gt </h1>-->
 
 <p> <br> </p>
 
@@ -12,7 +11,6 @@
 * :speech_balloon: I am available 24/7 for people who want to talk about Analytics.
 
 <p> <br> </p>
-
 
 
 ![Aditya Shenoy Tech Stack](https://user-images.githubusercontent.com/49498445/126198305-45276b83-4455-4355-9bca-61ee0c83a0b1.gif)
@@ -34,6 +32,10 @@ Python   20 mins         ██████████████████�
 <a href="https://instagram.com/adishenz" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="adishenz" /></a>
 <!--<a href="https://www.hackerrank.com/adishenz98" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="adishenz98"  /></a>-->
 </p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adishenz98&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="adishenz98" /> </p>
+
 
 
 <p align="center">
