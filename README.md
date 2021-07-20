@@ -13,15 +13,15 @@
 
 <p> <br> </p>
 
+
+![Aditya Shenoy Tech Stack](https://user-images.githubusercontent.com/49498445/126198305-45276b83-4455-4355-9bca-61ee0c83a0b1.gif)
+
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
 Python   20 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-
-![Aditya Shenoy Tech Stack](https://user-images.githubusercontent.com/49498445/126198305-45276b83-4455-4355-9bca-61ee0c83a0b1.gif)
-
 
 
 <h3 align="center">Let's connect and chat!</h3>
