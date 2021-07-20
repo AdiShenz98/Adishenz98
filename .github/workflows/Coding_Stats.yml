@@ -17,4 +17,4 @@ jobs:
           SHOW_TITLE: true
           SHOW_DAYS_OF_WEEK: true
           SHOW_COMMIT: true
-          SHOE_EDITORS: true
+          SHOW_EDITORS: false
