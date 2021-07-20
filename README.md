@@ -3,18 +3,19 @@
 
 <!--<h1 font-family="monospace" align="center" height="1500" color="blue"> Heyy there fellow &lt ANALYST / &gt </h1>-->
 
+<p> <br> </p>
+
 #### Hi!, I'm Aditya Shenoy, a passionate and self-taught data analyst.
 * :high_brightness: From the earliest years of my childhood, I have held a penchant for solving problems, which is why the area of analytics has always piqued my interest and connected with my enthusiasm.
 * 🎓 Currently I am pursuing my **Integrated M.Sc** degree in **Mathematics and Computing** from **Birla Institute of Technology**. Having been a student of this particular discipline for almost four years now have significantly helped me hone my technical and quantitative skills which have aided in having a better understanding of the data I'm working with.
 * 💻 I spent most of my time in `Python`, `SQL` and `Tableau`
 * :speech_balloon: I am available 24/7 for people who want to talk about Analytics.
 
-
+<p> <br> </p>
 
 ![Aditya Shenoy Tech Stack](https://user-images.githubusercontent.com/49498445/126198305-45276b83-4455-4355-9bca-61ee0c83a0b1.gif)
 
 
-<p> <br> </p>
 
 <h3 align="center">Let's connect and chat!</h3>
 <p align="center">
