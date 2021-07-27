@@ -46,7 +46,7 @@ Bash       44 mins         ▓░░░░░░░░░░░░░░░░�
 
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=adishenz98&show_icons=true&theme=vue-dark&locale=en&line_height=33" alt="adishenz98"/> 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=adishenz98&show_icons=true&theme=vue-dark&locale=en&line_height=33&layout=compact" alt="adishenz98"/> 
 <img  src="https://github-readme-stats.vercel.app/api?username=adishenz98&theme=vue-dark&line_height=20" alt="adishenz98"/> 
 </p>
 
