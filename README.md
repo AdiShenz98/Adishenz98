@@ -23,8 +23,8 @@
 ```text
 Week: 04 August, 2021 - 10 August, 2021
 
-SQL        2 hrs 6 mins    ████████████▓░░░░░░░░░░░░   50.28 % 
-Markdown   2 hrs 4 mins    ████████████▒░░░░░░░░░░░░   49.45 % 
+Markdown   2 hrs 4 mins    ██████████████░░░░░░░░░░░   56.26 % 
+SQL        1 hr 36 mins    ███████████░░░░░░░░░░░░░░   43.43 % 
 ```
 <!--END_SECTION:waka-->
 
