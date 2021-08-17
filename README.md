@@ -21,9 +21,7 @@
 ### 📊 Weekly Development Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 10 August, 2021 - 16 August, 2021
-
-SQL     5 mins          ████████████████████████▒   97.16 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
