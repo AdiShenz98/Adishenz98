@@ -21,7 +21,10 @@
 ### 📊 Weekly Development Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 August, 2021 - 31 August, 2021
+
+Python       1 hr 25 mins    ████████████████████████░   95.88 % 
+SQL          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 <!--END_SECTION:waka-->
 
