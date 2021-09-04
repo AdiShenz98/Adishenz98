@@ -21,7 +21,7 @@
 ### 📊 Weekly Development Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2021 - 02 September, 2021
+Week: 28 August, 2021 - 03 September, 2021
 
 Python       3 hrs 40 mins   ████████████████████████▓   99.14 % 
 ```
