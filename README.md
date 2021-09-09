@@ -23,7 +23,7 @@
 ```text
 Week: 02 September, 2021 - 08 September, 2021
 
-Python   2 hrs 54 mins   █████████████████████████   99.83 % 
+Python   1 hr 31 mins    █████████████████████████   99.67 % 
 ```
 <!--END_SECTION:waka-->
 
