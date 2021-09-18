@@ -21,7 +21,9 @@
 ### 📊 Weekly Development Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 September, 2021 - 17 September, 2021
+
+Python   20 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
