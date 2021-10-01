@@ -21,7 +21,7 @@
 ### 📊 Weekly Development Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 23 September, 2021 - 29 September, 2021
+Week: 24 September, 2021 - 30 September, 2021
 
 Python   1 hr 54 mins    ███████████████████████░░   91.94 % 
 SQL      9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
