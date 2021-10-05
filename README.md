@@ -23,8 +23,7 @@
 ```text
 Week: 28 September, 2021 - 04 October, 2021
 
-Python   1 hr 12 mins    ██████████████████████░░░   87.78 % 
-SQL      9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Python   25 mins         ████████████████████████▓   98.39 % 
 ```
 <!--END_SECTION:waka-->
 
