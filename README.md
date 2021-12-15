@@ -23,7 +23,8 @@
 ```text
 Week: 08 December, 2021 - 14 December, 2021
 
-Python   1 min           █████████████████████████   100.00 % 
+Bash     14 mins         ███████████████████████▒░   92.71 % 
+Python   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 ```
 <!--END_SECTION:waka-->
 
