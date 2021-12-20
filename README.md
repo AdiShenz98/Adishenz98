@@ -21,7 +21,7 @@
 ### 📊 Weekly Development Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 12 December, 2021 - 18 December, 2021
+Week: 13 December, 2021 - 19 December, 2021
 
 Bash     1 hr 7 mins     ███████████████████████▓░   94.90 % 
 Text     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
