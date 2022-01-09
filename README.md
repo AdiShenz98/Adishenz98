@@ -21,7 +21,10 @@
 ### 📊 Weekly Development Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 January, 2022 - 08 January, 2022
+
+HTML    1 hr 6 mins     ████████████████████████▓   98.50 % 
+Other   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 <!--END_SECTION:waka-->
 
