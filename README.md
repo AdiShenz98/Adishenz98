@@ -23,7 +23,7 @@
 ```text
 Week: 17 January, 2022 - 23 January, 2022
 
-HTML         11 mins         █████████████████████░░░░   84.00 % 
+HTML         10 mins         █████████████████████▓░░░   86.85 % 
 ```
 <!--END_SECTION:waka-->
 
